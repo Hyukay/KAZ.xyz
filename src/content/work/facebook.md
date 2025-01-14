@@ -1,8 +1,8 @@
 ---
-company: "Facebook"
-role: "Intern"
-dateStart: "07/01/2019"
-dateEnd: "12/31/2019"
+company: "XpertSource"
+role: "Software Engineer Intern"
+dateStart: "09/01/2022"
+dateEnd: "12/31/2022"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+Improved user engagement by integrating Google Analytics, optimized website performance for faster load times, and implemented SEO strategies to enhance search engine rankings and increase traffic.

@@ -1,8 +1,8 @@
 ---
-company: "McDonalds"
-role: "French Fryer"
-dateStart: "03/16/2018"
-dateEnd: "07/01/2019"
+company: "Hanstronix (Thargetto)"
+role: "Software Engineer Intern"
+dateStart: "05/01/2024"
+dateEnd: "08/25/2024"
 ---
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
+Created market analysis reports to support strategic decisions, proposed blockchain-based solutions for infrastructure funding in Haiti, and conducted research on challenges in the agricultural sector.

@@ -1,8 +1,7 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "FUSEE LAB"
+role: "Blockchain Research and Development Intern"
+dateStart: "05/05/2023"
+dateEnd: "09/09/2023"
 ---
-
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Conducted research on blockchain-based real estate tokenization, developed smart contracts to optimize transaction efficiency, and implemented decentralized governance protocols to enhance decision-making. Authored technical reports to improve project visibility and foster collaboration.
