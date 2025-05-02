@@ -1,8 +1,8 @@
 ---
 title: "Microservices Backend"
 description: "Backend microservices containing business logic and integrating AI microservices to the infrastructure"
-date: "April 22 2025"
-repoURL: "https://github.com/LOG795-PFE020/stock-ai""
+date: "Apr 22 2025"
+repoURL: "https://github.com/LOG795-PFE020/stock-ai"
 ---
 
 # To launch

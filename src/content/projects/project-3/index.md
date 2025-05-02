@@ -1,7 +1,7 @@
 ---
 title: "NotYahoo"
 description: "A comprehensive financial analysis platform with AI-powered stock predictions, market sentiment analysis, and interactive agentic advisor"
-date: "April 22 2025"
+date: "Apr 22 2025"
 repoURL: "https://github.com/LOG795-PFE020/NotYahoo"
 ---
 
