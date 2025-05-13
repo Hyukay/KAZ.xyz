@@ -1,7 +1,7 @@
 ---
 title: "Stock AI"
 description: "Advanced Stock forecasting and market Analysis System"
-date: "Apr 22 2025"
+date: "2025-04-22"
 repoURL: "https://github.com/LOG795-PFE020/stock-ai"
 ---
 

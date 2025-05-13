@@ -1,7 +1,7 @@
 ---
 title: "REverse Exchange"
 description: "Real Estate tokenization crowdfunding platform"
-date: "Mar 18 2024"
+date: "2024-03-18"
 demoURL: "https://reverse-exchange-4chj.vercel.app/"
 repoURL: "https://github.com/Hyukay/reverse_exchange/"
 ---
